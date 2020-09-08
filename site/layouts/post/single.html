@@ -5,9 +5,9 @@
     <div class="flex justify-between grey-3">
     </div>
     <div class="cms mw6">
-      <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      <!-- <p>{{ .Description }}</p> -->
       {{ .Content }}
+      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
     </div>
   </div>
 {{ end }}
