@@ -1,11 +1,11 @@
 ---
-title: Cosa de prueba
+title: "Lunes: Corre, trota o camina"
 date: 2020-09-08T23:31:12.263Z
-description: Pequeño texto, de intro
-image: img/about-reinvest-profits.jpg
+description: Corre, trota o camina 3 km en el transcurso del día.
+image: ""
 ---
-apasdasd
+Cuando termines registrala haciendo:
 
-
-
-• asdasdasd
+* Paso 1
+* Paso 2
+* Paso 3
