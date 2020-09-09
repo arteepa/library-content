@@ -1,5 +1,5 @@
 ---
-title: "Lunes 21 de Septiembre: Corre, trota o camina 3km"
+title: "Lunes 21 de Septiembre: Corre, trota o camina"
 date: 2020-09-09T16:59:07.158Z
 description: <>
 image: img/registro-manual.png
