@@ -6,7 +6,7 @@ image: img/registro-manual.png
 ---
 Ingresa a esta liga para ver la rutina desde tu celular, tablet, o computadora:\
 \
-**[https://aldeasolutions.mx/​Watch/o2B9HdGj](https://aldeasolutions.mx/Watch/o2B9HdGj)**\
+**[https://aldeasolutions.mx/​watch/o2B9HdGj](https://aldeasolutions.mx/Watch/o2B9HdGj)**\
 \
 Ya que hayas completado la rutina, registra la actividad con el Nombre: **Abdomen de acero**
 
