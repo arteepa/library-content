@@ -4,6 +4,8 @@ date: 2020-09-09T17:05:43.848Z
 description: <>
 image: img/registro-manual.png
 ---
-Antes de la fecha, **publicaremos aquí la liga** para ver el video de la rutina a realizar 💪🏼
+Ingresa a esta liga para ver la rutina desde tu celular, tablet, o computadora:\
+\
+**[https://aldeasolutions.mx/​watch/Ep8j2T9R](https://aldeasolutions.mx/Watch/Ep8j2T9R)**
 
 Ya que hayas completado la rutina, registra la actividad con el Nombre: **Abdomen de acero**
