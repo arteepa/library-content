@@ -1,5 +1,5 @@
 ---
-title: Prepara tu Cocina para Invertir en tu Salud
+title: Prepara tu cocina para invertir en tu salud
 date: 2020-09-09T18:17:06.563Z
 description: <>
 image: img/cocina_saludable.png
