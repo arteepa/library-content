@@ -33,7 +33,6 @@ Ingresa a la liga o sigue la rutina descrita abajo. Ya que hayas completado la r
 * 40” Sentadilla sostenida en la pared con lagartija
 * 20” Plancha sostenida 
 
-**Duración: 34 min**
-
 \
-Al final de la rutina te recomendamos estirarte, puedes seguir esta rutina de estiramientos: *[https://aldeasolutions.mx/​watch/Yq62Rxc3](https://aldeasolutions.mx/Watch/Yq62Rxc3)*
+-> Duración: 34 min\
+-> Al final de la rutina te recomendamos estirarte, puedes seguir esta rutina de estiramientos: *[https://aldeasolutions.mx/​watch/Yq62Rxc3](https://aldeasolutions.mx/Watch/Yq62Rxc3)*
