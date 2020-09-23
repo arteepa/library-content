@@ -19,8 +19,7 @@ Ingresa a la liga o sigue la rutina descrita abajo. Ya que hayas completado la r
 * Sentadilla tocando el piso/ abrir y cerrar
 * Saltar con piernas juntar al frente y atrás
 
-
-
+\
 **Bloque Full Body**
 
 ***Este bloque se realizará 3 o 4 veces, se descansará 1´30” entre cada bloque*** 
