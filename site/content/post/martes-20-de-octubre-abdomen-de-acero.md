@@ -20,7 +20,7 @@ Ingresa a la liga o sigue la rutina descrita abajo. Ya que hayas completado la r
 \
 **Bloque Full Body**
 
-***Este bloque se realizará 5 veces, descansando 15’’ entre cada ejercicio y 1´ entre cada bloque***
+***Este bloque se realiza 5 veces, descansando 15’’ entre cada ejercicio y 1´ entre cada bloque***
 
 * 45’’ Sentadilla pliométrica / 2 rebotes o pulsos
 * 45’’ Burpees
