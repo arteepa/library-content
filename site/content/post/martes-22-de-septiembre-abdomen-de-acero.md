@@ -8,8 +8,6 @@ Ingresa a la liga o sigue la rutina descrita abajo. Ya que hayas completado la r
 \
 **[https://aldeasolutions.mx/​watch/Ep8j2T9R](https://aldeasolutions.mx/Watch/Ep8j2T9R)**\
 \
-**RUTINA**
-
 **Bloque de Calentamiento**
 
 *Este bloque se realiza 2 veces y cada ejercicio se trabaja durante 30”* 
