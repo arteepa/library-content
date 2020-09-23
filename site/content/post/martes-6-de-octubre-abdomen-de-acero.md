@@ -22,7 +22,7 @@ Ingresa a la liga o sigue la rutina descrita abajo. Ya que hayas completado la r
 \
 **Bloque Full Body**
 
-***Este bloque se realizará 5 veces, se descansará 1´30” entre cada bloque***
+***Este bloque se realiza 5 veces, descansando 1´30” entre cada bloque***
 
 * 40” Sentadilla con patada al frente
 * 20” Plancha sostenida
