@@ -4,7 +4,7 @@ date: 2020-09-09T17:05:43.848Z
 description: <>
 image: img/registro-manual.png
 ---
-Ingresa a la liga para ver el video o sigue la rutina descrita abajo. Ya que hayas completado la rutina, registra la actividad con el Nombre: **Abdomen de acero**\
+Ingresa a la liga o sigue la rutina descrita abajo. Ya que hayas completado la rutina, registra manualmente la actividad con el nombre: **Abdomen de acero**\
 \
 **[https://aldeasolutions.mx/​watch/Ep8j2T9R](https://aldeasolutions.mx/Watch/Ep8j2T9R)**\
 \
