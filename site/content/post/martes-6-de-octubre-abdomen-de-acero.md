@@ -12,13 +12,14 @@ Ingresa a la liga o sigue la rutina descrita abajo. Ya que hayas completado la r
 
 ***Este bloque se realiza 3 veces y cada ejercicio se trabaja durante 30”*** 
 
-**De pausa entre cada bloque es 1´**
+***De pausa entre cada bloque es 1´***
 
 * Cuerda
 * Desplantes laterales
 * Tijeras
 * Zombies 
 
+\
 **Bloque Full Body**
 
 ***Este bloque se realizará 5 veces, se descansará 1´30” entre cada bloque***
