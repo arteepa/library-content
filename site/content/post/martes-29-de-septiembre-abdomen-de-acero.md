@@ -12,13 +12,14 @@ Ingresa a la liga o sigue la rutina descrita abajo. Ya que hayas completado la r
 
 ***Este bloque se realiza 2 veces y cada ejercicio se trabaja durante 30”*** 
 
-**De pausa entre cada bloque es 1´**
+***De pausa entre cada bloque es 1´***
 
 * Jumping Jack
 * Tijeras
 * 4 yoguis/ 4 talón-pompa
 * Esquiadores
 
+\
 **Bloque Full Body**
 
 ***Este bloque se realizará 4 veces, se descansará 1´30” entre cada bloque***
@@ -32,7 +33,6 @@ Ingresa a la liga o sigue la rutina descrita abajo. Ya que hayas completado la r
 * 30” Plancha alta y baja
 * 30” Star Jump
 
-**Duración: 29 min** 
-
 \
-Al final de la rutina te recomendamos estirarte, puedes seguir esta rutina de estiramientos: *[https://aldeasolutions.mx/​watch/Yq62Rxc3](https://aldeasolutions.mx/Watch/Yq62Rxc3)*
+-> Duración: 29 min \
+-> Al final de la rutina te recomendamos estirarte, puedes seguir esta rutina de estiramientos: *[https://aldeasolutions.mx/​watch/Yq62Rxc3](https://aldeasolutions.mx/Watch/Yq62Rxc3)*
