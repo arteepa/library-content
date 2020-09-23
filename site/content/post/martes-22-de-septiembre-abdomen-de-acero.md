@@ -22,7 +22,7 @@ Ingresa a la liga o sigue la rutina descrita abajo. Ya que hayas completado la r
 \
 **Bloque Full Body**
 
-***Este bloque se realizará 3 o 4 veces, se descansará 1´30” entre cada bloque*** 
+***Este bloque se realiza 3 o 4 veces, descansando 1´30” entre cada bloque*** 
 
 * 40” Sentadilla con apertura lateral de piernas
 * 20” Jumping Jack
