@@ -2,6 +2,7 @@
 title: 3 estrategias para formar hábitos saludables (y mantenerlos)
 date: 2020-10-05T17:53:12.854Z
 description: <>
+image: img/habitos_saludables.jpeg
 ---
 Desarrollar un hábito saludable es difícil. Si levantarte a las 6 de la mañana para hacer ejercicio o preparar tus platillos desde un día antes fuera fácil, todos estaríamos en nuestro nivel óptimo de bienestar.
 
