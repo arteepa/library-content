@@ -14,31 +14,31 @@ Video ejercicio: <https://player.vimeo.com/video/473056466>[](https://player.vim
 
 **Elevated heel squat**\
 3 sets de 15 reps\
-Video ejercicio: \
+Video ejercicio: <https://player.vimeo.com/video/473058671>\
 \
 **Burpee runner**\
 3 sets de 25 reps\
-Video ejercicio:\
+Video ejercicio: <https://player.vimeo.com/video/473058536>\
 \
 **Lateral lunge**\
 3 sets de 15 reps\
-Video ejercicio:\
+Video ejercicio: <https://player.vimeo.com/video/473058828>\
 \
 **Burpee scissors**\
 3 sets de 25 reps\
-Video ejercicio: \
+Video ejercicio: <https://player.vimeo.com/video/473058631>\
 \
 **Seated oblique twist**\
 3 sets de 15 reps\
-Video ejercicio:\
+Video ejercicio: <https://player.vimeo.com/video/473059013>\
 \
 **Log jumps**\
 3 sets de 25 reps\
-Video ejercicio:\
+Video ejercicio: <https://player.vimeo.com/video/473058830>\
 \
 **Plank spider push up**\
 3 sets de 15 reps\
-Video ejercicio:
+Video ejercicio: <https://player.vimeo.com/video/473058881>
 
 \
 Puedes monitorizar la rutina con un reloj compatible o registrarla manualmente con el nombre: **Rutina N3 Softtek**
