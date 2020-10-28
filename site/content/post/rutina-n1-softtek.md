@@ -12,8 +12,9 @@ Realiza el siguiente circuito una vez:
 
 **Basic glute bridge**\
 **3 sets de 12 repeticiones**\
-https://vimeo.com/473056464\\
-<object src="https://player.vimeo.com/video/473056464" width="620" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></object>
+https://vimeo.com/473056464
+
+<iframe src="https://player.vimeo.com/video/473056464" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 **Jumping Jacks**\
 **3 sets de 12 reps**\
@@ -26,8 +27,6 @@ https://vimeo.com/473056464\\
 \
 **Plank**\
 **3 sets de 20 seg**
-
-
 
 \
 Puedes monitorizar tu entrenamiento con un reloj compatible, o bien, puedes registrarlo manualmente con el nombre **Rutina N1 Softtek:**
