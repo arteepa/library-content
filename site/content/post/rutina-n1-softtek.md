@@ -11,11 +11,13 @@ Calorías a quemar: 150\
 Realiza el siguiente circuito una vez:
 
 **Basic glute bridge**\
-3 sets de 12 repeticiones\
+3 sets de 12 reps\
 Video ejercicio: <https://player.vimeo.com/video/473056464>
 
 **Jumping Jacks**\
-**3 sets de 12 reps**\
+3 sets de 12 reps\
+Video ejercicio:\
+\
 \
 **Back extension**\
 **3 sets de 12 reps**\
