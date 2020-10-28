@@ -6,7 +6,7 @@ image: img/softtek-registro-manual.png
 ---
 Entrenamiento recomendado para personas que están empezando o retomando el ejercicio. \
 \
-Calorías a quemar: 150\
+150 calorías activas\
 \
 Realiza el siguiente circuito una vez:
 
@@ -16,8 +16,7 @@ Video ejercicio: <https://player.vimeo.com/video/473056464>
 
 **Jumping Jacks**\
 3 sets de 12 reps\
-Video ejercicio:\
-\
+Video ejercicio: <https://player.vimeo.com/video/473056466>\
 \
 **Back extension**\
 **3 sets de 12 reps**\
