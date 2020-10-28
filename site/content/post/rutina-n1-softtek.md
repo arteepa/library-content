@@ -15,9 +15,19 @@ Realiza el siguiente circuito una vez:
 https://vimeo.com/473056464\\
 <object src="https://player.vimeo.com/video/473056464" width="620" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></object>
 
-Jumping Jacks
+**Jumping Jacks**\
+**3 sets de 12 reps**\
+\
+**Back extension**\
+**3 sets de 12 reps**\
+\
+**Belt kicks**\
+**3 sets de 24 reps**\
+\
+**Plank**\
+**3 sets de 20 seg**
 
-Realiza 3 sets de 12 repeticiones
+
 
 \
 Puedes monitorizar tu entrenamiento con un reloj compatible, o bien, puedes registrarlo manualmente con el nombre **Rutina N1 Softtek:**
