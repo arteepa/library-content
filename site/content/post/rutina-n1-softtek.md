@@ -10,9 +10,9 @@ Calorías a quemar: 150\
 \
 Realiza el siguiente circuito una vez:
 
-> **Basic glute bridge**\
-> **3 sets de 12 repeticiones**\
-> https://vimeo.com/473056464\
+**Basic glute bridge**\
+**3 sets de 12 repeticiones**\
+https://vimeo.com/473056464\
 
 Realiza 3 sets de 12 repeticiones
 
